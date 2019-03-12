@@ -1,8 +1,8 @@
 {
-  "name": "regex-replace-loader",
-  "version": "1.0.1",
+  "name": "svg-regex-replace-loader",
+  "version": "1.0.2",
   "description": "A webpack loader to replace values in files using regex",
-  "author": "James Abney",
+  "author": "James Abney(feat turetski)",
   "license": "MIT",
   "main": "./index.js",
   "repository": {
